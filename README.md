@@ -22,6 +22,7 @@
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![Zapier](https://img.shields.io/badge/zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 I am a funnel developer with a huge love for Zapier, and marketing automation. I specialize in crafting landing pages using the industry's leading platforms including ClickFunnels, GoHighLevel, Systeme, Kajabi, Unbounce, Shopify, Leadpages, GrooveFunnels, FunnelKit, Kartra, WordPress, and many more. 📈💯 Currently, **I'm open to work and employment opportunities**.
 
